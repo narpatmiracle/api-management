@@ -3,8 +3,9 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "vite build",
+         "build": "[my-framework] build --output public",
         "dev": "vite"
+        
     },
     "devDependencies": {
         "@popperjs/core": "^2.11.6",
